@@ -17,7 +17,7 @@ An end-to-end exploratory data analysis and statistical study of global happines
 | Tool | Purpose |
 |------|---------|
 | Python | Core programming language |
-| NumPy | numerical computing |
+| NumPy | Numerical computing |
 | Pandas | Data manipulation & analysis |
 | Matplotlib & Seaborn | Data visualization |
 | Scipy | Statistical analysis |
@@ -74,6 +74,5 @@ World-Happiness-Analysis/
 ## 👩‍💻 Author
 
 **Iqra Hasnain** — Aspiring Data Scientist  
-[GitHub](https://github.com/IqraHasnain)
-
-[LinkedIn](https://www.linkedin.com/in/iqra-hasnain-68a357282/)
+- [GitHub](https://github.com/IqraHasnain)
+- [LinkedIn](https://www.linkedin.com/in/iqra-hasnain-68a357282/)

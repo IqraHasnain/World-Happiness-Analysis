@@ -2,6 +2,8 @@
 
 An end-to-end exploratory data analysis and statistical study of global happiness across 147–158 countries from 2015 to 2022, combining 8 years of data to uncover trends, correlations, and regional patterns.
 
+--
+
 ## 🗂️ Dataset
 
 - Coverage: 2015–2022
@@ -73,4 +75,5 @@ World-Happiness-Analysis/
 
 **Iqra Hasnain** — Aspiring Data Scientist  
 [GitHub](https://github.com/IqraHasnain)
+
 [LinkedIn](https://www.linkedin.com/in/iqra-hasnain-68a357282/)

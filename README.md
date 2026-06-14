@@ -2,7 +2,7 @@
 
 An end-to-end exploratory data analysis and statistical study of global happiness across 147–158 countries from 2015 to 2022, combining 8 years of data to uncover trends, correlations, and regional patterns.
 
---
+---
 
 ## 🗂️ Dataset
 
@@ -10,7 +10,7 @@ An end-to-end exploratory data analysis and statistical study of global happines
 - 147–158 countries per year
 - 1,231 total records after combining
 
---
+---
 
 ## 🛠️ Tools & Technologies
 
@@ -23,7 +23,7 @@ An end-to-end exploratory data analysis and statistical study of global happines
 | Scipy | Statistical analysis |
 | Jupyter Notebook | Interactive development environment |
 
---
+---
 
 ## 📊 Analysis performed
 
@@ -32,7 +32,7 @@ An end-to-end exploratory data analysis and statistical study of global happines
 - T-test comparing Western Europe vs Sub-Saharan Africa happiness scores
 - Multi-year trend analysis across 1,231 records spanning 2015–2022 (trend analysis limited to 2015–2021 due to incomplete 2022 data)
 
---
+---
 
 ## 🔍 Key Insights
 
@@ -42,7 +42,7 @@ An end-to-end exploratory data analysis and statistical study of global happines
 - **Western Europe and Sub-Saharan Africa** have statistically significantly different happiness scores **(t-stat = 13.37, p-value ≈ 0)**, confirming the happiness gap between these regions is not due to chance.
 - Global happiness between 2015-2021 — increased from **5.37 in 2015 to 5.53 in 2021** — a modest but consistent upward trend suggesting gradual improvement in global wellbeing despite economic and political challenges.
 
---
+---
 
 ## 📁 Project Structure
 
